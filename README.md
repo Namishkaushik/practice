@@ -1,2 +1,4 @@
 <h1> Hello Friends</h1>
-```print("Hello World")```
+```
+print("Hello World")
+```

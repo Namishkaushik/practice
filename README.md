@@ -1,2 +1,1 @@
-# Hello World
-Author - Namish Kaushik<br> Hello everyone
+<h1> Hello Friends</h1>

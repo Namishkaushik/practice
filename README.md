@@ -1,3 +1,3 @@
 # Hello everyone
-Here is the code : \n
+Here is the code :  
 ```print("Hello World")```

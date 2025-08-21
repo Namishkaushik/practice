@@ -1,7 +1,3 @@
-
-```
-print("Hello World")
-```
-```python
-print("Hello World")
-```
+# Hello everyone
+Here is the code : 
+''' print("Hello World")```
